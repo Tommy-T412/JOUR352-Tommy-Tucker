@@ -1,0 +1,39 @@
+h1 {color: orange;
+	text-align: center;
+
+}
+
+body {font-family: 'Roboto Condensed', sans-serif;
+}
+
+body {background-color: orange;}
+
+.textLabel {
+	font-weight:bold;
+	color: white;
+}
+
+h2 {color: white;}
+
+li {font-size: x-large;
+
+}
+
+.header {
+	width: 100%;
+
+	padding: 30px;
+
+}
+
+.contentcenter{
+	width:100%;
+
+	padding: 0  300px  0 500px;
+
+}
+
+
+h3 {
+	padding: 100px 300px 0 0;
+}
